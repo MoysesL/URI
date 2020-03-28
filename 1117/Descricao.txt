@@ -1,4 +1,4 @@
-RI Online Judge | 1177
+URI Online Judge | 1177
 Preenchimento de Vetor II
 Adaptado por Neilor Tonin, URI  Brasil
 
